@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       My Basics Plugin
+ * Plugin Name:       Add Meta Tags
  * Plugin URI:        https://example.com/plugins/the-basics/
  * Description:       Handle the basics with this plugin.
  * Version:           1.10.3
